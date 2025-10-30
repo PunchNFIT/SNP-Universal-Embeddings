@@ -142,8 +142,6 @@ Lead investigator in Emotional AI, mTOR optimization, and cognitive reasoning mo
 
 🔗 Related Works
 
-Substrate–Prism Neuron (Main Paper)
+Substrate–Prism Neuron (Main Paper) https://github.com/PunchNFIT/prism-neuron
 
-SNP-Universal-Embedding (Model)
-
-ONE AI Digital Health Agent
+ONE AI Digital Health Agent https://one-ai.fit
