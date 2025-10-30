@@ -137,7 +137,7 @@ Seun Ola, CEO/Researcher — 366 Degree FitTech & Sci Institute
 Lead investigator in Emotional AI, mTOR optimization, and cognitive reasoning modeling.
 📧 info@366degreefitresearch.com
 
-🌐 Hugging Face Profile: https://huggingface.co/366dEgrees
+🌐 Hugging Face Profile: https://huggingface.co/366degrees
 
 
 🔗 Related Works
