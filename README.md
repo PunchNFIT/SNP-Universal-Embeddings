@@ -129,3 +129,21 @@ The dual radar plots visualize the SNP’s balance between reasoning divergence,
   url={https://github.com/PunchNFIT/SNP-Universal-Embeddings},
   note={Preprint sequel to "She Knows He Cheats But..."}
 }
+
+
+🧠 About the Author
+
+Seun Ola, CEO/Researcher — 366 Degree FitTech & Sci Institute
+Lead investigator in Emotional AI, mTOR optimization, and cognitive reasoning modeling.
+📧 info@366degreefitresearch.com
+
+🌐 Hugging Face Profile: https://huggingface.co/366dEgrees
+
+
+🔗 Related Works
+
+Substrate–Prism Neuron (Main Paper)
+
+SNP-Universal-Embedding (Model)
+
+ONE AI Digital Health Agent
